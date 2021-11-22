@@ -1,6 +1,6 @@
-body {background-color:white;
+body {background-color:black;
     font-family:arial;
-    color:black;
+    color:white;
     align-content: center;
     font-size: 16px;
 }
@@ -29,8 +29,8 @@ align-content: center;
 }
 .theory
 {
-   background-color:black;
-   color:white; 
+   background-color:white;
+   color:black; 
    width:250px;
    padding:40px;
    border-radius:35px;
